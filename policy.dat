@@ -1,0 +1,22 @@
+{
+  "v": 1,
+  "kind": "blocklist",
+  "issued": "2026-06-09T14:11:24.269701+00:00",
+  "revoked": [],
+  "blocked_hwids": [],
+  "min_version": "",
+  "licenses": {
+    "GHOST-D41D-389F-23E0-588D": {
+      "active": true,
+      "revoked": false,
+      "expires": null,
+      "plan": "lifetime",
+      "hwid": "9241-1B21-CEBB-7740",
+      "username": "моя"
+    }
+  },
+  "policy": {
+    "grace_hours": 72
+  },
+  "signature": "qD/V6yD8U3KL341uq5BjKO3n3h6ad/DDY/PGUCURp3COj8VetlKIPe0GBpUenqyEJahmaZsUipgfO9cVE4PSAA=="
+}
