@@ -1,18 +1,20 @@
 {
   "v": 1,
   "kind": "blocklist",
-  "issued": "2026-06-11T17:36:47.886766+00:00",
+  "issued": "2026-06-11T17:36:58.837020+00:00",
   "revoked": [
-    "GHOST-3C89-1629-7A84-8EAB"
+    "GHOST-3C89-1629-7A84-8EAB",
+    "GHOST-D41D-389F-23E0-588D"
   ],
   "blocked_hwids": [
+    "9241-1B21-CEBB-7740",
     "A2BB-FBF6-C4CF-9CF4"
   ],
   "min_version": "",
   "licenses": {
     "GHOST-D41D-389F-23E0-588D": {
-      "active": true,
-      "revoked": false,
+      "active": false,
+      "revoked": true,
       "expires": null,
       "plan": "lifetime",
       "hwid": "9241-1B21-CEBB-7740",
@@ -30,5 +32,5 @@
   "policy": {
     "grace_hours": 72
   },
-  "signature": "F1Ue+GVRrafxlSg49HtAn9dc9mrw+Dl7JF6ydrP1/VJox1zU9qH/shUvOsHozSdS4XIeLoBnbiw9Nh8/CUDPCg=="
+  "signature": "1b7ULVtuqud0+TozpcJvL5nlt/cC4/FLn8OZt9RUc/bhQkh9Z5i2iLNqhNZU9UwX2wSTdKfztAtPxVaJ2ZGiBg=="
 }
